@@ -1,0 +1,14 @@
+c:\users\p\documents\visual studio 2015\Projects\Memory\Memory\bin\Debug\Memory.exe.config
+C:\Users\p\Documents\Visual Studio 2015\Projects\Memory\Memory\bin\Debug\Memory.exe
+C:\Users\p\Documents\Visual Studio 2015\Projects\Memory\Memory\bin\Debug\Memory.pdb
+C:\Users\p\Documents\Visual Studio 2015\Projects\Memory\Memory\obj\Debug\Memory.csprojResolveAssemblyReference.cache
+C:\Users\p\Documents\Visual Studio 2015\Projects\Memory\Memory\obj\Debug\MainWindow.g.cs
+C:\Users\p\Documents\Visual Studio 2015\Projects\Memory\Memory\obj\Debug\App.g.cs
+C:\Users\p\Documents\Visual Studio 2015\Projects\Memory\Memory\obj\Debug\Memory_MarkupCompile.cache
+C:\Users\p\Documents\Visual Studio 2015\Projects\Memory\Memory\obj\Debug\Memory_MarkupCompile.lref
+C:\Users\p\Documents\Visual Studio 2015\Projects\Memory\Memory\obj\Debug\MainWindow.baml
+C:\Users\p\Documents\Visual Studio 2015\Projects\Memory\Memory\obj\Debug\Memory.g.resources
+C:\Users\p\Documents\Visual Studio 2015\Projects\Memory\Memory\obj\Debug\Memory.Properties.Resources.resources
+C:\Users\p\Documents\Visual Studio 2015\Projects\Memory\Memory\obj\Debug\Memory.csproj.GenerateResource.Cache
+C:\Users\p\Documents\Visual Studio 2015\Projects\Memory\Memory\obj\Debug\Memory.exe
+C:\Users\p\Documents\Visual Studio 2015\Projects\Memory\Memory\obj\Debug\Memory.pdb
